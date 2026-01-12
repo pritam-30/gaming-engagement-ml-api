@@ -1,0 +1,40 @@
+# ✅ `.gitignore`
+
+```gitignore
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.env
+.venv
+venv/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Data files
+data/
+*.csv
+
+# Model artifacts
+*.pkl
+*.joblib
+
+# Logs
+*.log
+
+# Cache
+.cache/
+```

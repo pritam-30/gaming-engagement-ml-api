@@ -1,0 +1,14 @@
+# Core ML/Data Science
+numpy>=2.4,<3.0
+pandas>=2.3,<3.0
+scikit-learn>=1.8,<2.0
+xgboost>=3.1,<4.0
+joblib>=1.5,<2.0
+
+# API & Web Framework
+fastapi>=0.104,<1.0
+uvicorn>=0.24,<1.0
+
+# Visualization
+matplotlib>=3.10,<4.0
+seaborn>=0.13,<1.0
